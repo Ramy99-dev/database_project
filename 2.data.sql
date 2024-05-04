@@ -3,10 +3,10 @@ INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VAL
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (9, 'Hammamet Port', 'Marina Yasmine Hammamet, Hammamet', '72-567-890');
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (10, 'Carthage Marina', 'Port de la Goulette, Tunis', '71-678-901');
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (11, 'Djerba Midoun', 'Route Touristique, Djerba', '75-789-012');
-INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (12, 'Bizerte Port', 'Port de Bizerte, Bizerte', '78-890-123');
+INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (12, 'Bizerte Port', 'Port de Bizerte, Bizerte', '72-890-123');
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (13, 'Monastir Marina', 'Port de Monastir, Monastir', '73-901-234');
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (14, 'Nabeul Centre', 'Avenue Habib Thameur, Nabeul', '72-012-345');
-INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (15, 'Kelibia Plage', 'Route de la Plage, Kelibia', '70-123-456');
+INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (15, 'Kelibia Plage', 'Route de la Plage, Kelibia', '72-123-456');
 INSERT INTO Agence (id_agence, nom_agence, adresse_agence, telephone_agence) VALUES (16, 'Tabarka Port', 'Port de Tabarka, Tabarka', '78-234-567');
 
 INSERT INTO Client (id_client, nom_client, adresse, email, telephone) VALUES (7, 'Fatima Ben Ali', '20 Rue Ali Belhouane, Tunis', 'fatima.benali@example.com', '22-987-654');
